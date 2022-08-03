@@ -1,9 +1,7 @@
+/* import "../../styles/components/maincontent.scss"; */
+
 const MainContent = () => {
-  return (
-    <div>
-      
-    </div>
-  );
+  return <main id="main-content"></main>;
 };
 
 export default MainContent;
