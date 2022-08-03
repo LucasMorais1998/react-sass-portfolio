@@ -7,7 +7,7 @@ import {
   DiReact,
 } from "react-icons/di";
 
-import "../../styles/components/technologiescontainer.scss";
+import "../../styles/components/technologies-container.scss";
 
 const technologies = [
   { id: "html", name: "HTML5", icon: <DiHtml5 /> },
