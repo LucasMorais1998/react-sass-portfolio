@@ -1,9 +1,11 @@
 import AvatarImg from "../../assets/images/person-picture.jpg";
 
+import "../../styles/components/sidebar.scss";
+
 const Sidebar = () => {
   return (
     <aside id="sidebar">
-      <p>imagem</p>
+      <img src={AvatarImg} alt="Imagem de perfil, de uma mulher ruiva" />
       <p className="title">Desenvolvedor</p>
       <p>redes sociais</p>
       <p>informações de contato</p>
