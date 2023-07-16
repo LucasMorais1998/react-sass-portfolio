@@ -1,9 +1,9 @@
-import SocialNetworkContainer from "../SocialNetworkContainer";
-import InformationContainer from "../InformationContainer";
+import InformationContainer from '../InformationContainer';
+import SocialNetworkContainer from '../SocialNetworkContainer';
 
-import AvatarImg from "../../assets/images/person-picture.jpg";
+import AvatarImg from '../../assets/images/person-picture.jpg';
 
-import "../../styles/components/sidebar.scss";
+import '../../styles/components/sidebar.scss';
 
 const Sidebar = () => {
   return (

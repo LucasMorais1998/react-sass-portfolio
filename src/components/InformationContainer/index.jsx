@@ -1,6 +1,6 @@
-import { AiFillPhone, AiOutlineMail, AiFillEnvironment } from "react-icons/ai";
+import { AiFillEnvironment, AiFillPhone, AiOutlineMail } from 'react-icons/ai';
 
-import "../../styles/components/information-container.scss";
+import '../../styles/components/information-container.scss';
 
 const InformationContainer = () => {
   return (

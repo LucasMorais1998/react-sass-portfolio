@@ -1,4 +1,4 @@
-@use "variables.scss";
+@use 'variables.scss';
 
 @mixin center {
   display: flex;
@@ -15,7 +15,7 @@
 }
 
 @mixin gradient-border {
-  content: "";
+  content: '';
   background: variables.$gradient;
   height: 3px;
   width: 30%;
